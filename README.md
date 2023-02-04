@@ -65,7 +65,7 @@ npm run dev
 * common_utils
 * service_base
 
-需要启动的模块：
+含有主启动类的模块：
 
 * service-edu
 * service-vod
